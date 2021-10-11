@@ -1,12 +1,12 @@
 # WinsowsTools
-##explorer
+## Explorer
 -locatie: c:\windows\explorer.exe
 -doel: herstellen
 
 > uitleg explorer.exe:
 https://www.exefiles.com/nl/exe/explorer-exe/
 
-##Notepad
+## Notepad
 - locatie : c:\windows\note.exe
 
 - doel: kladblad
