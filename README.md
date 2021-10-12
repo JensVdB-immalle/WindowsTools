@@ -1,4 +1,4 @@
-# WinsowsTools
+# WindowsTools
 ## Explorer
 - locatie: ``c:\windows\explorer.ex``
 
