@@ -8,7 +8,7 @@
 https://www.exefiles.com/nl/exe/explorer-exe/
 
 ## Notepad
-- locatie : c:\windows\note.exe
+- locatie : ``c:\windows\note.exe``
 
 - doel: kladblad
 
@@ -16,7 +16,7 @@ https://www.exefiles.com/nl/exe/explorer-exe/
 https://www.bestanden.nl/proces/notepad.exe.html
 
 ## comsetup
-- locatie : c:\windows\comsetup.log
+- locatie : ``c:\windows\comsetup.log``
 
 - doel : laat zien wanneer setup start en eindigt,...
 
@@ -24,7 +24,7 @@ https://www.bestanden.nl/proces/notepad.exe.html
 https://www.solvusoft.com/nl/files/fout-ontbrekende-download/log/windows/microsoft/windows/comsetup-log/
 
 ## osk
-- locatie : c:\windows\osk
+- locatie : ``c:\windows\osk``
 
 - doel : toont toetsenbord
 
