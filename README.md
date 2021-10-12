@@ -23,7 +23,16 @@ https://www.bestanden.nl/proces/notepad.exe.html
 > uitleg comsetup.log:
 https://www.solvusoft.com/nl/files/fout-ontbrekende-download/log/windows/microsoft/windows/comsetup-log/
 
+## osk
+- locatie : c:\windows\osk
+
+- doel : toont toetsenbord
+
+>Uitleg osk: 
+https://techdirectarchive.com/2020/02/08/how-to-use-the-on-screen-keyboard-osk-via-the-command-prompt/
+
 
 
 #CLI-Tools
+
 
