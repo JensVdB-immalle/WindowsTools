@@ -39,6 +39,14 @@ https://techdirectarchive.com/2020/02/08/how-to-use-the-on-screen-keyboard-osk-v
 >Uitleg splwow64:
 https://www.groovypost.com/howto/splwow64-exe-process-windows/
 
-#CLI-Tools
+# CLI-Tools
+## time
+- command line: ``time``
+
+- doel : geeft tijd van heden (nu)
+
+>Uitleg time:
+https://manuals.gfi.com/en/exinda/help/content/cli/commands/date_and_time.htm
+
 
 
