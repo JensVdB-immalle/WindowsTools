@@ -61,7 +61,7 @@ https://www.computerwoorden.nl/direct--12886--IPCONFIG.htm
 
 - doel : kan u de kleine aanpassingen en verschillen tussen twee gelijkaardige bestanden tonen. Het markeert de waarden die zijn gewijzigd, toegevoegd, en toont wat is verwijderd uit het tweede bestand.
 
->Uitleg icdif
+>Uitleg icdif: 
 nr 13. https://stackify.com/top-command-line-tools/
 
 
