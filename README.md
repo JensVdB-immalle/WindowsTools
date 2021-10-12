@@ -64,4 +64,18 @@ https://www.computerwoorden.nl/direct--12886--IPCONFIG.htm
 >Uitleg icdif: 
 nr 13. https://stackify.com/top-command-line-tools/
 
+## pandoc
+- command line: ``pandoc``
 
+- doel : converteert HTML bestanden naar slideshows, Zet webpagina's om in markdown-bestanden, Aangepaste code syntax highlighting.
+
+>Uitleg pandoc: 
+nr 14. https://stackify.com/top-command-line-tools/
+
+## ping 8.8.8.8
+- command line: ``ping 8.8.8.8``
+
+- doel : Controleerd dat de remote host toegankelijk is.
+
+>Uitleg ping 8.8.8.8:
+https://wisetut.com/best-ping-test-ip-addresses-google-dns-8-8-8-8-cloudflare-dns-1-1-1-1/#:~:text=8.8%20very%20popular.-,The%208.8.,network%20connection%20to%20the%208.8.
