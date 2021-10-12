@@ -1,6 +1,6 @@
 # WinsowsTools
 ## Explorer
-- locatie: "c:\windows\explorer.exe"
+- locatie: ''c:\windows\explorer.ex''
 
 - doel: herstellen
 
